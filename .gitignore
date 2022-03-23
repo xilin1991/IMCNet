@@ -1,0 +1,12 @@
+.vscode
+.idea
+*.so
+_ext*
+*.pyc
+__pycache__
+build
+/checkpoints/
+/results*/
+/runs/
+/data/
+*.pth
