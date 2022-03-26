@@ -49,7 +49,7 @@ DATASET_CONF = {
 }
 ```
 In datasets folder:
-```
+```text
 |--datasets
     |--DAVIS2017
         |--Annotations_unsupervised
@@ -96,6 +96,6 @@ bash ./scripts/infer_ytboj_multi.sh  # YouTube-Objects with multi-scale inferenc
 2. The segmentation result on Youtube-Objects can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1-KlmQXNexF6c7wCLOI9V5GBZj4s--p34?usp=sharing), and multi-scale inference can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1-KiRShE5tk08IE9UIA6arp0MAl-vd8Xw?usp=sharing).
 
 ## Citation
-```
+```text
 
 ```
