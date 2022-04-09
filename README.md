@@ -5,7 +5,7 @@ This is a PyTorch implementation of our IMCNet for unsupervised video object seg
 
 **Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation**. 
 <br>
-[<a href="https://arxiv.org/abs/2204.02791" target="_blank">ArXiv</a>] [<a href="https://arxiv.org/abs/2204.02791" target="_blank">TCSVT</a>]
+[<a href="https://arxiv.org/abs/2204.02791" target="_blank">ArXiv</a>] [<a href="https://ieeexplore.ieee.org/document/9751597" target="_blank">TCSVT</a>]
 
 ## Prerequisites
 
@@ -99,5 +99,13 @@ bash ./scripts/infer_ytboj_multi.sh  # YouTube-Objects with multi-scale inferenc
 
 ## Citation
 ```text
-
+@ARTICLE{Lin2022_TCSVT,
+    author={Xi, Lin and Chen, Weihai and Wu, Xingming and Liu, Zhong and Li, Zhengguo},
+    journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+    title={Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation}, 
+    year={2022},
+    volume={},
+    number={},
+    pages={1-1}
+}
 ```
