@@ -30,7 +30,7 @@ pip install opencv-python tqdm tensorboard
 
 - <a href="https://davischallenge.org/davis2017/code.html#unsupervised" target="_blank">DAVIS dataset</a>: We use all the data in the train and validation subset of DAVIS 2016. However, please download DAVIS 2017 (Unsupervised 480p) to fit the code. <a href="https://data.vision.ee.ethz.ch/csergi/share/davis/DAVIS-2017-trainval-480p.zip" target="_blank">Download Link</a>
 
-- <a href="https://youtube-vos.org/dataset/" target="_blank">Youtube-VOS dataset</a>: The training set of YouTube-VOS (2019 version) is used to train our IMCNet. A subset of the training set of YouTube-VOS selected 18K frames, which is obtained by sampling images containing a single object per sequence (```./dataloaders/ytvos_train.txt```). We first pre-train our network for 200K iterations on the subset of YouTube-VOS (see Section III.B).
+- <a href="https://youtube-vos.org/dataset/" target="_blank">YouTube-VOS dataset</a>: The training set of YouTube-VOS (2019 version) is used to train our IMCNet. A subset of the training set of YouTube-VOS selected 18K frames, which is obtained by sampling images containing a single object per sequence (```./dataloaders/ytvos_train.txt```). We first pre-train our network for 200K iterations on the subset of YouTube-VOS (see Section III.B).
 
 - <a href="http://saliencydetection.net/duts/" target="_blank">DUTS dataset</a>: <a href="http://saliencydetection.net/duts/download/DUTS-TR.zip" target="_blank">DUTS-TR</a> which is the training set of DUTS was used to train our IMCNet with our joint training strategy (see Section II.E in our paper).
 
