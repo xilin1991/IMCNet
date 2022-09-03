@@ -99,13 +99,12 @@ bash ./scripts/infer_ytboj_multi.sh  # YouTube-Objects with multi-scale inferenc
 
 ## Citation
 ```text
-@ARTICLE{Lin2022_TCSVT,
-    author={Xi, Lin and Chen, Weihai and Wu, Xingming and Liu, Zhong and Li, Zhengguo},
-    journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-    title={Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation}, 
-    year={2022},
-    volume={},
-    number={},
-    pages={1-1}
-}
+@ARTICLE{9751597,
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation}, 
+  year={2022},
+  volume={32},
+  number={9},
+  pages={6279-6292},
+  doi={10.1109/TCSVT.2022.3165932}}
 ```
