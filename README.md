@@ -98,14 +98,15 @@ bash ./scripts/infer_ytboj_multi.sh  # YouTube-Objects with multi-scale inferenc
 2. The segmentation result on Youtube-Objects can be downloaded from <a href="https://drive.google.com/drive/folders/1-KlmQXNexF6c7wCLOI9V5GBZj4s--p34?usp=sharing" target="_blank">Google Drive</a>, and multi-scale inference can be downloaded from <a href="https://drive.google.com/drive/folders/1-KiRShE5tk08IE9UIA6arp0MAl-vd8Xw?usp=sharing" target="_blank">Google Drive</a>.
 
 ## Citation
-* L. Xi, W. Chen, X. Wu, Z. Liu and Z. Li, "Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 9, pp. 6279-6292, Sept. 2022.
+* Lin Xi, W. Chen, X. Wu, Z. Liu and Z. Li, "Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 9, pp. 6279-6292, Sept. 2022.
 ```text
 @ARTICLE{9751597,
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation}, 
-  year={2022},
-  volume={32},
-  number={9},
-  pages={6279-6292},
-  doi={10.1109/TCSVT.2022.3165932}}
+    author={Xi, Lin and Chen, Weihai and Wu, Xingming and Liu, Zhong and Li, Zhengguo},
+    journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+    title={Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation}, 
+    year={2022},
+    volume={32},
+    number={9},
+    pages={6279-6292}
+}
 ```
