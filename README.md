@@ -5,7 +5,11 @@ This is a PyTorch implementation of our IMCNet for unsupervised video object seg
 
 **Implicit Motion-Compensated Network for Unsupervised Video Object Segmentation**. 
 <br>
-[<a href="https://arxiv.org/abs/2204.02791" target="_blank">ArXiv</a>] [<a href="https://ieeexplore.ieee.org/document/9751597" target="_blank">TCSVT</a>]
+<div>
+  <h4 align="left">
+    <a href="https://arxiv.org/abs/2204.02791" target="_blank"><img src="https://img.shields.io/badge/arXiv-2204.02791-b31b1b?style=flat&logo=arXiv"></a>  <a href="https://ieeexplore.ieee.org/document/9751597" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/IEEE-TCSVT-blue?logo=IEEE&logoColor=white"></a>
+  </h4>
+</div>
 
 ## Prerequisites
 
